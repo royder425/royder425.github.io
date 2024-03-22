@@ -43,10 +43,10 @@ author: GitHub User
 copyright: "Unpublished Work (cleft) 2017-{currentYear} {author}"
 
 description: >- # this means to ignore newlines until "baseurl:"
-프로그래밍 배워본 적 없은 사람의 무지성 도전기
-GPT와 Google의 도움으로 창업까지!
-A story of ignorance from someone who has never learned programming
-A story about taking on the challenge of starting a business with the help of GPT and Google
+  프로그래밍 배워본 적 없는 사람의 무지성 도전기
+  GPT와 Google의 도움으로 창업까지!
+  A story of ignorance from someone who has never learned programming
+  A story about taking on the challenge of starting a business with the help of GPT and Google
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. https://example.com
