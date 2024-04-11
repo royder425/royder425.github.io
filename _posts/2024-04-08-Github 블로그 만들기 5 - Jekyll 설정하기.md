@@ -2,7 +2,9 @@
 layout: post
 title: "Github 블로그 만들기 5탄 - Jekyll 설정하기"
 subtitle: "Creating a Github Blog Part 5 - Jekyll setting"
-categories: Blog, Github, Ruby, Jekyll
+excerpt_image: <img width="267" alt="썸네일" src="https://github.com/royder425/royder425.github.io/assets/155123794/ebb82319-adeb-423c-ba6d-ab82e3ea2c7c">
+categories: Blog
+Tag: [Blog, Github]
 ---
 
 드디어 Blog를 로컬 환경에서 열 수 있게 되었다.

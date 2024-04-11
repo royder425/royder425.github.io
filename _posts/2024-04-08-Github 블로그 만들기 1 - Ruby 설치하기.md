@@ -2,7 +2,9 @@
 layout: post
 title: "Github 블로그 만들기 1 - Ruby 설치하기"
 subtitle: "Creating a Github Blog Part 1 - Ruby Install"
-categories: Blog, Github, Ruby, Jekyll
+excerpt_image: https://github.com/royder425/royder425.github.io/assets/155123794/ebb82319-adeb-423c-ba6d-ab82e3ea2c7c
+categories: Blog
+Tag: [Blog, Github]
 ---
 
 1. Ruby 설치
