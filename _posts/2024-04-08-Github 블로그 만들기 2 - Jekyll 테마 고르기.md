@@ -39,9 +39,9 @@ Your repositories 클릭
 
 테마 복사하는 방법
 
-[URL로 테마 가져오기](/2024-04-08-Github%20블로그%20만들기%202-1%20-%20URL로%20테마%20가져오기.md)
+[URL로 테마 가져오기](https://royder425.github.io/blog,/github,/ruby,/jekyll/2024/04/08/Github-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0-2-1-URL%EB%A1%9C-%ED%85%8C%EB%A7%88-%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0.html)
 
-[Download ZIP 테마 가져오기](https://www.notion.so/Download-ZIP-61c12c7b9e1b4fe0b9c1ddb5ab5044a7?pvs=21)
+[Download ZIP 테마 가져오기](https://royder425.github.io/blog,/github,/ruby,/jekyll/2024/04/08/Github-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0-2-2-Download-ZIP-%ED%85%8C%EB%A7%88-%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0.html)
 
 ![5](https://github.com/royder425/royder425.github.io/assets/155123794/737d8254-320e-4a92-97c6-93f48b70e824)
 
