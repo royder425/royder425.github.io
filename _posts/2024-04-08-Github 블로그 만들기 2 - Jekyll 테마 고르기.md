@@ -2,7 +2,7 @@
 layout: post
 title: "Github 블로그 만들기 2 - Jekyll 테마 고르기"
 subtitle: "Creating a Github Blog Part 2 - Choice Jekyll Theme"
-excerpt_image: <img width="267" alt="썸네일" src="https://github.com/royder425/royder425.github.io/assets/155123794/ebb82319-adeb-423c-ba6d-ab82e3ea2c7c">
+excerpt_image: https://github.com/royder425/royder425.github.io/assets/155123794/ebb82319-adeb-423c-ba6d-ab82e3ea2c7c
 categories: Blog
 Tag: [Blog, Github]
 ---
