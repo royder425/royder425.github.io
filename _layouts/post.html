@@ -69,11 +69,10 @@ sidebar:
 
     {%- assign result = hidden | where_exp: "item", "item == 'comments'" -%}
     {%- if result.size == 0 -%}
-    <div class="post-comments">
-      <script src="https://utteranc.es/client.js"
+    <script src="https://utteranc.es/client.js"
         repo="royder425/royder425.github.io"
         issue-term="pathname"
-        label="Commnet"
+        label="Comment"
         theme="github-dark-orange"
         crossorigin="anonymous"
         async>
