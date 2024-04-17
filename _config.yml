@@ -55,7 +55,7 @@ favicon: "/assets/images/Favicon 48x48.png"
 # Yat date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
 yat:
-  date_format: "%Y-%m-%d %H:%M"
+  date_format: "%a, %b %d, %y"
 
 # If you want more debug log, you can set true
 # debug: false
