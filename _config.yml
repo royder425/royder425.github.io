@@ -1,8 +1,7 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+name: Map-Go
+title: Map-Go | Travel destination recommendation
+description: Map-Go covers travel-related content.
 tags:
   - blog
   - template
@@ -13,28 +12,19 @@ show_hero: true
 menu:
   - title: Home
     url: /
-  - title: About
-    url: /about
+  - title: Profile
+    url: /Profile
   - title: Contact
     url: /contact
   - title: Feed
     url: /feed.xml
-email: youremail@test.com
-# See: https://disqus.com/
-disqus_username: disqus_username
-# Contact Form Setting
-# See: https://formspree.io/
-formspree_form_id: formspree_form_id
+email: roider425@gmail.com
 
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: github_username
-facebook_username: facebook_username
-twitter_username: twitter_username
-instagram_username: instagram_username
-linkedin_username: linkedin_username
-medium_username: medium_username
+github_username: royder425
+instagram_username: r0ydas
 
 
 # Posts Settings
@@ -46,7 +36,7 @@ two_columns_layout: true
 
 # Advanced Settings
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+url: "https://royder425.github.io/" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 language: "en"
 categories_folder: category
@@ -91,7 +81,7 @@ plugins:
   - jekyll-paginate
   - jekyll-paginate-content
 
-# Exclude my node related stuff
+# s
 exclude: [
   'docs/',
   'vendor/',
@@ -108,6 +98,3 @@ exclude: [
   'gulpfile.js',
   'README.md'
 ]
-
-# Theme
-version: v3.1.2
