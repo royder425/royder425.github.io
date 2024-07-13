@@ -9,6 +9,7 @@ permalink: /Profile/
 
 <img class="img-rounded" src="/assets/img/uploads/profile.png" alt="Thomas A. Anderson" width="200">
 
-# Profile
+# Map-Go
 
-TESTTEST
+맵고, 짜고, 단거!   
+Map-Go는 다양한 여행 관련한 컨텐츠를 다루는 하나의 상징 입니다!
