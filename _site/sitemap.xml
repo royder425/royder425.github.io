@@ -179,6 +179,13 @@
     
     
         <url>
+            <loc>http://localhost:4000/Managua(KR)/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2024-07-23</lastmod>
+        </url>
+    
+        <url>
             <loc>http://localhost:4000/Welcome-Map-Go/</loc>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
