@@ -99,6 +99,13 @@ Mount Masaya 또한 활화산을 볼 수 있는 곳 입니다.
   
 GetYourGuide로 마나과에서 이뤄지는 다양한 액티비티를 예약하면 더 간단하게 잘 즐길 수 있습니다.  
 
+<div id="adgshp46478555"></div>
+<script type="text/javascript" src="//cdn0.agoda.net/images/sherpa/js/init-dynamic_v8.min.js"></script><script type="text/javascript">
+var stg = new Object(); stg.crt="756409209487";stg.version="1.05"; stg.id=stg.name="adgshp46478555"; stg.Width="730px"; stg.Height="90px";stg.RefKey="n9guC6eXZ2QXadu8zSJbwA==";stg.AutoScrollSpeed=5000;stg.AutoScrollToggle=true;stg.SearchboxShow=false;stg.DiscountedOnly=false;stg.Layout="widedynamic"; stg.Language="ko-kr";stg.ApiKey="722ac243-58e2-4015-8346-aecd38d38365";stg.Cid="1929455";  stg.City="11504";stg.Currency="KRW";stg.OverideConf=false; new AgdDynamic('adgshp46478555').initialize(stg);
+</script>
+
+Agoda에서 마나과에서의 숙소도 찾아보세요
+
 자연과의 조화가 잘 이루어져 있는 도시인 마나과의 추천 편 끝 입니다.!
 
 
