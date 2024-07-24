@@ -100,3 +100,14 @@ Mount Masaya 또한 활화산을 볼 수 있는 곳 입니다.
 GetYourGuide로 마나과에서 이뤄지는 다양한 액티비티를 예약하면 더 간단하게 잘 즐길 수 있습니다.  
 
 자연과의 조화가 잘 이루어져 있는 도시인 마나과의 추천 편 끝 입니다.!
+
+
+
+<!-- 댓글 기능 -->
+<script src="https://utteranc.es/client.js"
+        repo="royder425/royder425.github.io"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>

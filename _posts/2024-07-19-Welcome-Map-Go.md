@@ -24,3 +24,13 @@ Map-Go Project의 시작인 이 Blog는 향후 제가 생각하는 여행을 위
 당분간은 얼렁뚱땅 여행지 추천이라는 이름으로 여행지, 관광지, 숙박 시설, 투어, 액티비티 등 다양한 것을 소개하는것 위주의 글이 올라갈 예정이지만 앞으로 제가 더 열심히 공부하다 보면 제가 상상하고 있던 것들을 올릴 수 있는 그런 사이트가 되었으면 하는 바램이 있습니다.
 
 여행지 추천 블로그 외 다른 글들이 궁금하다면 [네이버 블로그](https://blog.naver.com/crazydoctortravel)에도 많은 관심 부탁드립니다.
+
+
+<!-- 댓글 기능 -->
+<script src="https://utteranc.es/client.js"
+        repo="royder425/royder425.github.io"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
