@@ -182,7 +182,14 @@
             <loc>http://localhost:4000/Porto-Novo(KR)/</loc>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
-            <lastmod>2024-07-25</lastmod>
+            <lastmod>2024-07-26</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/Cayenne(KR)/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2024-07-26</lastmod>
         </url>
     
         <url>
