@@ -179,6 +179,20 @@
     
     
         <url>
+            <loc>http://localhost:4000/St_Helena(KR)/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2024-07-31</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/Sofia(KR)/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2024-07-30</lastmod>
+        </url>
+    
+        <url>
             <loc>http://localhost:4000/Porto-Novo(KR)/</loc>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>

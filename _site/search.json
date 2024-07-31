@@ -3,6 +3,22 @@
   
   
     {
+      "title"    : "얼렁뚱땅 여행지 추천기 - 세인트헬레나",
+      "tags"     : "Map-Go, blog, 나라, 도시, Travel, Trip, 여행, 여행지 추천, and 세인트헬레나",
+      "categories" : "blog",
+      "url"      : "/St_Helena(KR)/",
+      "date"     : "07/31/2024"
+    } ,
+  
+    {
+      "title"    : "얼렁뚱땅 여행지 추천기 - 소피아",
+      "tags"     : "Map-Go, blog, 나라, 도시, Travel, Trip, 여행, 여행지 추천, and 소피아",
+      "categories" : "blog",
+      "url"      : "/Sofia(KR)/",
+      "date"     : "07/30/2024"
+    } ,
+  
+    {
       "title"    : "얼렁뚱땅 여행지 추천기 - 포르토노보(베냉)",
       "tags"     : "Map-Go, blog, 나라, 도시, Travel, Trip, 여행, 여행지 추천, 포르토노보, and 베냉",
       "categories" : "blog",
