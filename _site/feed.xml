@@ -5,40 +5,13 @@
     <description>Map-Go covers travel-related content.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 31 Jul 2024 16:18:39 +0900</pubDate>
-    <lastBuildDate>Wed, 31 Jul 2024 16:18:39 +0900</lastBuildDate>
+    <pubDate>Wed, 31 Jul 2024 19:37:24 +0900</pubDate>
+    <lastBuildDate>Wed, 31 Jul 2024 19:37:24 +0900</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
     
       <item>
         <title>얼렁뚱땅 여행지 추천기 - 세인트헬레나</title>
-        <description>&lt;h1 id=&quot;세인트헬레나편&quot;&gt;세인트헬레나편&lt;/h1&gt;
-
-&lt;p&gt;얼렁뚱땅 여행지 추천 세인트헬레나편 입니다.&lt;/p&gt;
-
-&lt;h3 id=&quot;1-제목&quot;&gt;1. 제목&lt;/h3&gt;
-&lt;p&gt;내용 &lt;br /&gt;
-&lt;img src=&quot;링크&quot; alt=&quot;Alt&quot; title=&quot;Desc&quot; /&gt;&lt;/p&gt;
-
-&lt;!-- GetYourGuide --&gt;
-&lt;div data-gyg-href=&quot;https://widget.getyourguide.com/default/city.frame&quot; data-gyg-location-id=&quot;166535&quot; data-gyg-locale-code=&quot;ko-KR&quot; data-gyg-widget=&quot;city&quot; data-gyg-partner-id=&quot;1GS4FB3&quot;&gt;&lt;/div&gt;
-&lt;p&gt;GetYourGuide로 세인트헬레나에서 이뤄지는 다양한 액티비티를 예약하면 더 간단하게 즐길 수 있습니다.&lt;/p&gt;
-
-&lt;!-- Agoda --&gt;
-&lt;div id=&quot;adgshp1441513395&quot;&gt;&lt;/div&gt;
-&lt;script type=&quot;text/javascript&quot; src=&quot;//cdn0.agoda.net/images/sherpa/js/init-dynamic_v8.min.js&quot;&gt;&lt;/script&gt;
-&lt;script type=&quot;text/javascript&quot;&gt;
-var stg = new Object(); stg.crt=&quot;2820079445110&quot;;stg.version=&quot;1.05&quot;; stg.id=stg.name=&quot;adgshp1441513395&quot;; stg.Width=&quot;300px&quot;; stg.Height=&quot;300px&quot;;stg.RefKey=&quot;EF4kc75bMqQEmKJGPbwgBw==&quot;;stg.AutoScrollSpeed=3000;stg.AutoScrollToggle=true;stg.SearchboxShow=false;stg.DiscountedOnly=false;stg.Layout=&quot;squaredynamic&quot;; stg.Language=&quot;ko-kr&quot;;stg.ApiKey=&quot;722ac243-58e2-4015-8346-aecd38d38365&quot;;stg.Cid=&quot;1929455&quot;;  stg.City=&quot;153823&quot;;stg.Currency=&quot;KRW&quot;;stg.OverideConf=false; new AgdDynamic(&apos;adgshp1441513395&apos;).initialize(stg);
-&lt;/script&gt;
-
-&lt;p&gt;Agoda에서 세인트헬레나에서의 숙소도 찾아보세요&lt;/p&gt;
-
-&lt;p&gt;세인트헬레나의 추천 편 끝입니다!&lt;/p&gt;
-
-&lt;!-- 댓글 기능 --&gt;
-&lt;script src=&quot;https://utteranc.es/client.js&quot; repo=&quot;royder425/royder425.github.io&quot; issue-term=&quot;pathname&quot; theme=&quot;github-light&quot; crossorigin=&quot;anonymous&quot; async=&quot;&quot;&gt;
-&lt;/script&gt;
-
-</description>
+        <description>&lt;h1 id=&quot;세인트헬레나편&quot;&gt;세인트헬레나편&lt;/h1&gt; &lt;p&gt;얼렁뚱땅 여행지 추천 세인트헬레나편입니다. 세인트헬레나는 남대서양에 있는 영국령 3개 섬 중 하나면서 3개 섬의 중심이자 대표 역할을 하는 곳입니다. 이곳의 유명한 일화로 나폴레옹이 이곳으로 유배를 왔고 6년간 살다 사망한 곳이기도 합니다. 그래서 당시 총독 관저이자 나폴레옹의 마지막 저택이기도 한 롱우드 하우스가 유명한 곳입니다.&lt;/p&gt; &lt;p&gt;추천 관광지로는&lt;/p&gt; &lt;h3 id=&quot;1-saint-pauls-cathedral-saint-helena&quot;&gt;1. Saint Paul’s Cathedral (Saint Helena)&lt;/h3&gt; &lt;p&gt;세인트 폴 대성당입니다. 제임스 타운에서 남쪽으로 2마일 (약 3.2km) 떨어진 곳에 있으며 현재 1등급 등록 건물로 지정되어 있습니다. &lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Exterior_of_Saint_Paul%27s_Cathedral_in_Saint_Helena.jpg/1200px-Exterior_of_Saint_Paul%27s_Cathedral_in_Saint_Helena.jpg?20200606184546&quot; alt=&quot; Saint Paul&apos;s Cathedral&quot; title=&quot; Saint Paul&apos;s Cathedral&quot; /&gt;&lt;/p&gt; &lt;h3 id=&quot;2-plantation-house&quot;&gt;2. Plantation House&lt;/h3&gt; &lt;p&gt;플랜테이션 하우스는 세인트 헬레나 주지사의 공식 거주지입니다. 세인트 폴 대성당과 비슷한 곳에 있으니...</description>
         <pubDate>Wed, 31 Jul 2024 00:00:00 +0900</pubDate>
         <link>http://localhost:4000/St_Helena(KR)/</link>
         <guid isPermaLink="true">http://localhost:4000/St_Helena(KR)/</guid>
