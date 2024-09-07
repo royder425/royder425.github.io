@@ -3,11 +3,19 @@
   
   
     {
+      "title"    : "얼렁뚱땅 여행지 추천기 - 아디스아바바",
+      "tags"     : "Map-Go, blog, 나라, 도시, Travel, Trip, 여행, 여행지 추천, 아디스아바바, and 에티오피아",
+      "categories" : "blog",
+      "url"      : "/Addis_Ababa(KR)/",
+      "date"     : "09/07/2024"
+    } ,
+  
+    {
       "title"    : "얼렁뚱땅 여행지 추천기 - 호바트",
-      "tags"     : "Map-Go, blog, 나라, 도시, Travel, Trip, 여행, 여행지 추천, and 호바트",
+      "tags"     : "Map-Go, blog, 나라, 도시, Travel, Trip, 여행, 여행지 추천, 호바트, and 호주",
       "categories" : "blog",
       "url"      : "/Hobart(KR)/",
-      "date"     : "08/09/2024"
+      "date"     : "09/04/2024"
     } ,
   
     {
@@ -20,7 +28,7 @@
   
     {
       "title"    : "얼렁뚱땅 여행지 추천기 - 소피아",
-      "tags"     : "Map-Go, blog, 나라, 도시, Travel, Trip, 여행, 여행지 추천, and 소피아",
+      "tags"     : "Map-Go, blog, 나라, 도시, Travel, Trip, 여행, 여행지 추천, 소피아, and 불가리아",
       "categories" : "blog",
       "url"      : "/Sofia(KR)/",
       "date"     : "07/30/2024"

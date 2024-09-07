@@ -56,6 +56,8 @@ author: Roy
 크리올 오두막 건물로서 건물 외부를 즐길 수 있고, 기아나의 문화를 잘 볼 수 있는 박물관입니다.  
 ![Musée des Cultures Guyanaises](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-nQZa7P8HoCmSLBMROHPPijN9kbaByxVCjA&s "Musée des Cultures Guyanaises")
 
+## 여행 팁
+
 <!-- GetYourGuide -->
 <div data-gyg-href="https://widget.getyourguide.com/default/city.frame" data-gyg-location-id="142961" data-gyg-locale-code="ko-KR" data-gyg-widget="city" data-gyg-partner-id="1GS4FB3"></div>
 GetYourGuide로 카옌에서 이뤄지는 다양한 액티비티를 예약하면 더 간단하게 즐길 수 있습니다.

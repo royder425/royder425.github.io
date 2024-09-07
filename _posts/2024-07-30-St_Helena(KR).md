@@ -82,6 +82,9 @@ Heart Shaped라 불리는 하트 모양의 폭포입니다.
 2개 층에 걸쳐 섬의 해양, 군사 및 사회 역사를 포괄하는 광범위한 컬렉션이 있습니다.
 ![Museum of Saint Helena](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Jacob%27s_Ladder_in_Jamestown_just_behind_the_Saint_Helena_Museum.jpg/330px-Jacob%27s_Ladder_in_Jamestown_just_behind_the_Saint_Helena_Museum.jpg "Museum of Saint Helena")
 
+
+## 여행 팁
+
 <!-- Agoda --> 
 <div id="adgshp-398309560"></div>
 <script type="text/javascript" src="//cdn0.agoda.net/images/sherpa/js/init-dynamic_v8.min.js"></script><script type="text/javascript">

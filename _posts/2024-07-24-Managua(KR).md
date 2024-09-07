@@ -96,6 +96,8 @@ Mount Masaya 또한 활화산을 볼 수 있는 곳 입니다.
 마나과에서 조금 떨어진 마사야 라는 도시에 있는 산 인데 기왕 남미까지 간 김에 화산 투어 하는게 어떨까요?      
 ![Mount Masaya](https://upload.wikimedia.org/wikipedia/commons/a/ae/Pacaya-10.JPG "Mount Masaya ")
 
+## 여행 팁
+
 <div data-gyg-href="https://widget.getyourguide.com/default/city.frame" data-gyg-location-id="374" data-gyg-locale-code="ko-KR" data-gyg-widget="city" data-gyg-partner-id="1GS4FB3"></div>
   
   

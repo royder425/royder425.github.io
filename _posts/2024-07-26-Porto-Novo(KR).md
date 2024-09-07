@@ -62,6 +62,8 @@ author: Roy
 독특한 부르고뉴와 흰색 줄무늬 타일 건축물로 유명하며, "윌리를 찾아라"를 연상시키는 건물입니다.  
 ![Cathédrale Notre-Dame-de-Miséricorde de Cotonou](https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Cath%C3%A9drale_Notre-Dame-de-Mis%C3%A9ricorde_de_Cotonou.jpg/1200px-Cath%C3%A9drale_Notre-Dame-de-Mis%C3%A9ricorde_de_Cotonou.jpg?20190927213406 "Cathédrale Notre-Dame-de-Miséricorde de Cotonou")
 
+## 여행 팁
+
 <!-- GetYourGuide -->
 <div data-gyg-href="https://widget.getyourguide.com/default/city.frame" data-gyg-location-id="169069" data-gyg-locale-code="ko-KR" data-gyg-widget="city" data-gyg-partner-id="1GS4FB3"></div>
 GetYourGuide로 포르토노보에서 이뤄지는 다양한 액티비티를 예약하면 더 간단하게 즐길 수 있습니다.  
