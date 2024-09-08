@@ -1,13 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Map-Go | Travel destination recommendation</title>
+    <title>Map-Go</title>
     <description>Map-Go covers travel-related content.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 07 Sep 2024 13:23:15 +0900</pubDate>
-    <lastBuildDate>Sat, 07 Sep 2024 13:23:15 +0900</lastBuildDate>
+    <pubDate>Sun, 08 Sep 2024 16:27:27 +0900</pubDate>
+    <lastBuildDate>Sun, 08 Sep 2024 16:27:27 +0900</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
+    
+      <item>
+        <title>얼렁뚱땅 여행지 추천기 - 안도라</title>
+        <description>&lt;h1 id=&quot;안도라편&quot;&gt;안도라편&lt;/h1&gt; &lt;p&gt;얼렁뚱땅 여행지 추천 안도라편 입니다.&lt;br /&gt; 안도라 공국 줄여서 안도라는 유럽의 카탈루냐와 프랑스 사이에 있는 공국 입니다.&lt;br /&gt; 안도라는 60개가 넘는 빙하 호수가 있으며 몇몇 호수는 물이 정말 깨끗해서 정수 없이 마셔도 문제가 없다고 해요!&lt;br /&gt; 공식언어는 카탈루냐어 이지만 스페인어, 포르투갈어, 프랑스어도 일반적으로 사용된다고 합니다.&lt;br /&gt; 추천 여행지로는&lt;/p&gt; &lt;h3 id=&quot;1-mirador-roc-del-quer&quot;&gt;1. Mirador Roc Del Quer&lt;/h3&gt; &lt;p&gt;미라도르 전망대 입니다.&lt;br /&gt; 안도라의 작은 마을 오르디노 외곽에 위치한 미라도르 전망대는 산악 지형의 아름다움을 감상할 수 있는 곳으로 세 개의 거대한 토템 기둥이 있습니다.&lt;br /&gt; 가는 길이 험하고 만만치 않지만 하이킹을 즐기거나 자동차로 가는 방법도 있으니 안도라에 오셨다면 한번 쯤 꼭 들려보세요!&lt;br /&gt;...</description>
+        <pubDate>Sun, 08 Sep 2024 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000/Andorra(KR)/</link>
+        <guid isPermaLink="true">http://localhost:4000/Andorra(KR)/</guid>
+        
+        <category>Map-Go</category>
+        
+        <category>blog</category>
+        
+        <category>나라</category>
+        
+        <category>도시</category>
+        
+        <category>Travel</category>
+        
+        <category>Trip</category>
+        
+        <category>여행</category>
+        
+        <category>여행지 추천</category>
+        
+        <category>안도라</category>
+        
+        <category>안도라 공국</category>
+        
+        <category>blog</category>
+      </item>
     
       <item>
         <title>얼렁뚱땅 여행지 추천기 - 아디스아바바</title>
